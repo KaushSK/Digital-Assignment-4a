@@ -2,15 +2,17 @@
 # Game Name: Death Star At War
 
 * **Originality:** What is original about your game?
-* 
+* The premise of moving the Death Star around and un-canonically shooting it multiple times per second.
 * **Technical Merit:** What is interesting about your game technology?
-* 
+* Movement of the mouse and matching the laser with that in junction with the incoming x-wings.
 * **Prototype Postmortem:** What did you learn from this prototype? What was the easiest or hardest part of making it?
-* 
+* I learned nothing new, only translated somethings into Java as a test for this Digital Assignment.
 * **Prototype Assets:** Did you make your prototype assets from scratch? Did you borrow them? Cite your sources here.
-* 
+* Pictures of x-wings and deathstar were taken from Wookiepedia.com and spacebackground.png was a free to use background I had found.
 * **Prototype Closest Other Game:** Which other game most closely resembles your game? If you are borrowing code from a Phaser Example, you must say so here. If you borrow code from elsewhere, you must say so here.
+* Standard defense and shooting concept games.
 * **High Concept:** A one-sentence summary of your game.
+* 
 * **Theme:** State which of the themes or challenges you used.
 * **Mandated Variety:** State which input, randomness, genre, and play style you used in this prototype.
 * **Prototype Goal:** What game mechanic is this prototype evaluating?
