@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.ArrayList;
-import javax.swing.Timer;
+import javax.swing.Timer; 
 
 
 public class DeathStarGamePanel extends JPanel

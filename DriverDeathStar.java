@@ -3,7 +3,7 @@
    {
        public static void main(String[] args)
       {
-		   int maxX = 1200;
+		   int maxX = 1200; 
 			int maxY = 900;
 			
          JFrame frame = new JFrame("Death Star");
